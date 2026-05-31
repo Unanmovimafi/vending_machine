@@ -1,0 +1,15 @@
+1,100 plus 350ml,Drink,2.5,5,product1.jpg,Active
+3,Sprite,Drink,2.50,3,product3.jpg,Active
+2,Coca cola 350ml,Drink,2.50,7,product2.jpg,Active
+4,Monster 350ml,Drink,3,10,product4.jpg,Active
+5,Mister Potato,Food,4,3,product5.png,Active
+6,Mamee Monster,Food,3,4,product6.png,Active
+7,Twisties,Food,3.50,5,product7.jpg,Active
+8,Apple juice 350ml,Drink,2.50,10,product8.jpg,Active
+9,Nescafe Original,Drink,3,10,product9.jpg,Active
+10,Soy Milk 250ml,Drink,2,10,product10.jpg,Active
+11,Season Lemon Tea 250ml,Drink,2,10,product11.jpeg,Active
+12,Milo 250ml,Drink,3,10,product12.png,Active
+13,Pepsi 350ml,Drink,2,15,product13.jpg,Disable
+14,Fanta Orange,Drink,3,5,product14.jpg,Disable
+15,Ice Tea Peach,Drink,3.5,5,product15.jpeg,Disable
